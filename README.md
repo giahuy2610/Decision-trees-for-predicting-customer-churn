@@ -13,9 +13,10 @@ Với ưu điểm như dễ hiểu và dễ cấu hình, hiệu quả cao nên c
 Kết quả thực nghiệm cho thấy, dựa trên độ đo ROC-AUC, kết quả cho thấy thuật toán XGBoost có độ chính xác cao nhất với tỉ lệ khoảng 97% và kĩ thuật xử lý mất cân bằng dữ liệu Oversampling cho ra kết quả có độ chính xác cao hơn 2 kĩ thuật còn lại.  
 
 ## Kết quả
-![image](https://github.com/giahuy2610/Decision-trees-for-predicting-customer-churn/assets/87313146/5ec7b532-9306-42e0-b705-97093ac41f7c)
-![image](https://github.com/giahuy2610/Decision-trees-for-predicting-customer-churn/assets/87313146/96feda56-d27b-47b4-8930-dfef9e79be5b)
-![image](https://github.com/giahuy2610/Decision-trees-for-predicting-customer-churn/assets/87313146/21be60d1-5533-449a-9486-72bf4120626d)
+![image](https://github.com/giahuy2610/Decision-trees-for-predicting-customer-churn/assets/87313146/ac64716c-fed4-414c-b1a3-6070e91d2421)
+![image](https://github.com/giahuy2610/Decision-trees-for-predicting-customer-churn/assets/87313146/a2276bf3-12a5-41ea-a3c9-16c072ac66be)
+![image](https://github.com/giahuy2610/Decision-trees-for-predicting-customer-churn/assets/87313146/4db899bc-6f18-4788-bab5-354b085bc947)
+
 
 
 
